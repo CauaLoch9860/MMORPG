@@ -1,0 +1,5 @@
+com/projeto/mmorpg/MmorpgMissionsApplication.class
+com/projeto/mmorpg/model/Quest.class
+com/projeto/mmorpg/service/QuestService$1.class
+com/projeto/mmorpg/controller/QuestController.class
+com/projeto/mmorpg/service/QuestService.class

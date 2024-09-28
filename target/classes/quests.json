@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "title": "Aventura no Bosque",
+        "description": "Ajude o aldeão a encontrar sua ovelha perdida.",
+        "hint": "Verifique o pasto perto da floresta."
+    },
+    {
+        "id": "2",
+        "title": "Resgate na Montanha",
+        "description": "Salve o príncipe preso no castelo.",
+        "hint": "Olhe para o lado oeste da montanha."
+    }
+]
